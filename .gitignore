@@ -1,3 +1,4 @@
 .settings
 .classpath
-.project
+.projects
+/node_modules
